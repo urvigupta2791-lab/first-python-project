@@ -1,0 +1,36 @@
+#age = int(input("Enter a value:"))
+#if age >= 18:
+ #   print("You can vote")
+#else:
+#    print("You can't vote")
+
+
+#if-elif-else
+
+
+# score = int(input("Enter Marks:"))
+
+# if score >=90:
+#         print("A")
+# elif score >=80:
+#         print("B")
+# elif score >=70:
+#         print("C")
+# elif score >=60:
+#         print("D")
+# elif score >=50:
+#         print("E")
+# else:
+#         print("Failed")
+
+x= int(input("Enter a value: "))
+
+if x > 10:
+    print("Number is more than 10")
+    if x > 20:
+        print("Number is more than 20")
+        if x > 30:
+            print("Number is more than 30")
+else:
+    print("Number is less than 10")
+    
